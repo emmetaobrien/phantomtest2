@@ -548,3 +548,4 @@
 1713812193.299291s 1 http://phantom.loris.ca/api/v0.0.3-dev/candidates/963271/SEA_SCAN2_20090610/images/phantom_963271_SEA_SCAN2_20090610_t1w_001.mnc
 1713812196.540672s 1 http://phantom.loris.ca/api/v0.0.3-dev/candidates/963271/SEA_SCAN2_20090610/images/phantom_963271_SEA_SCAN2_20090610_dwi25_001.mnc
 1713812199.457655s 1 http://phantom.loris.ca/api/v0.0.3-dev/candidates/963271/SLR_SCAN2_20110916/images/phantom_963271_SLR_SCAN2_20110916_t2w_001.mnc
+1713812202.898482s 1 http://phantom.loris.ca/api/v0.0.3-dev/candidates/963271/SLR_SCAN2_20110916/images/phantom_963271_SLR_SCAN2_20110916_bold_001.mnc
