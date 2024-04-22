@@ -500,3 +500,4 @@
 1713812040.220116s 1 http://phantom.loris.ca/api/v0.0.3-dev/candidates/963271/PH1_SCAN2_20121119/images/phantom_963271_PH1_SCAN2_20121119_dwi25_001.mnc
 1713812044.006105s 1 http://phantom.loris.ca/api/v0.0.3-dev/candidates/963271/PH1_SCAN2_20121119/images/phantom_963271_PH1_SCAN2_20121119_t2w_001.mnc
 1713812047.449417s 1 http://phantom.loris.ca/api/v0.0.3-dev/candidates/963271/PH1_SCAN2_20121119/images/phantom_963271_PH1_SCAN2_20121119_fieldmapDWI_001.mnc
+1713812050.789167s 1 http://phantom.loris.ca/api/v0.0.3-dev/candidates/963271/PH1_SCAN2_20121119/images/phantom_963271_PH1_SCAN2_20121119_fieldmapBOLD_004.mnc
