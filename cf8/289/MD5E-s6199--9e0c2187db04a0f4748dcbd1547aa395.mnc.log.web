@@ -589,3 +589,4 @@
 1713812320.396148s 1 http://phantom.loris.ca/api/v0.0.3-dev/candidates/963271/UNH_SCAN2_20111020/images/phantom_963271_UNH_SCAN2_20111020_t2w_001.mnc
 1713812323.568154s 1 http://phantom.loris.ca/api/v0.0.3-dev/candidates/963271/UNH_SCAN2_20111020/images/phantom_963271_UNH_SCAN2_20111020_fieldmapDWI_001.mnc
 1713812326.602965s 1 http://phantom.loris.ca/api/v0.0.3-dev/candidates/963271/UNR_SCAN1_20131213/images/phantom_963271_UNR_SCAN1_20131213_fieldmapBOLD_001.mnc
+1713812329.514392s 1 http://phantom.loris.ca/api/v0.0.3-dev/candidates/963271/UNR_SCAN1_20131213/images/phantom_963271_UNR_SCAN1_20131213_bold_001.mnc
